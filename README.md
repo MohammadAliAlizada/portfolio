@@ -4,7 +4,8 @@ these technologies are used!
 1-
 
 
-![demo](https://github.com/MohammadAliAlizada/youtube-mern-stack/assets/40995758/ed444043-04c4-41b2-873d-70b03a0950a9)
+![demo](https://github.com/MohammadAliAlizada/portfolio/assets/40995758/5e67de1f-ccb6-400e-8b46-ce2aeccf1a8e)
+
 
 
 
@@ -15,11 +16,11 @@ these technologies are used!
 # Run Locally
 Clone the project
 ```bash
-  git clone https://github.com/MohammadAliAlizada/youtube-mern-stack.git
+  git clone https://github.com/MohammadAliAlizada/portfolio.git
 ```
 Go to the project directory
 ```bash
-  cd youtube-mern-clone
+  cd portfoli
 ```
 Install dependencies
 ```bash
