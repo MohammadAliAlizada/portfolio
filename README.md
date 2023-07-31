@@ -15,7 +15,7 @@ these technologies are used!
 # Demo
 [https://portfolio-woad-five-79.vercel.app/](https://portfolio-woad-five-79.vercel.app/)
 
-if you like don't forget to start
+if you like don't forget to star
 # Run Locally
 Clone the project
 ```bash
