@@ -8,7 +8,7 @@ export const Data = [
         id: 1,
         image: alpha,
         name: 'Alpha Cloths App',
-        url: "https://alpha-tech-omega.vercel.app/",
+        url: "https://youtube-clone-mern-stack.vercel.app/",
         description: "it was a great journey as full stack web developer freelancer, that I Learned more.",
 
     },
