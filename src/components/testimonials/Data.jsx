@@ -8,7 +8,7 @@ export const Data = [
         id: 1,
         image: alpha,
         name: 'Alpha Cloths App',
-        url: "https://youtube-clone-mern-stack.vercel.app/",
+        url: "https://alpha-tech-omega.vercel.app/",
         description: "it was a great journey as full stack web developer freelancer, that I Learned more.",
 
     },
@@ -16,7 +16,7 @@ export const Data = [
         id: 2,
         image: youtube,
         name: 'Youtube Clone ',
-        url: "https://youtube-mern-stack.vercel.app/",
+        url: "https://youtube-clone-mern-stack.vercel.app/",
         description: "Bigbox Deisgn is a graphic designer webiste that you can can hire best designers.",
 
     },
